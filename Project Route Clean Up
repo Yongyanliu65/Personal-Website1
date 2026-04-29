@@ -1,0 +1,9 @@
+Pages:
+Resources page(Practice page)
+Record of mistakes page and their status
+User page
+
+How users will use them:
+They will click on test pages, get into the practice tests. When they click on their profile, there will be the history of their error questions. They can click on them to see the source 
+
+I plan to improve the user interface, user system to store the algorithms to analyze their weakness, database to store those information, and an AI helper that can provide timely recommendation of target practice and explain some problems to users. I am also going to improve the backend path to speed up the data processing and 
